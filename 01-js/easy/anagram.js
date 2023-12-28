@@ -5,7 +5,7 @@
 */
 
 function isAnagram(str1, str2) {
-
+ let a =20;
 }
 
 module.exports = isAnagram;
